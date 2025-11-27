@@ -7,13 +7,14 @@
 
 **A Professional Machine Learning Tool for Imbalanced Classification Problems**
 
-<div align="center">
 
-### [🚀 Live Demo](https://navneet-shukla-imbalance-ml-pro.streamlit.app/) | [📖 Documentation](#-usage-guide) | [💡 Features](#-key-features)
+## 🌐 Live Demo
 
-*Try the application now - no installation required!*
+**Experience ImbalanceML Pro instantly without any setup:**
 
-</div>
+### 👉 [Launch Live Application](https://navneet-shukla-imbalance-ml-pro.streamlit.app/)
+
+No installation, no configuration - just click and start building models!
 
 ---
 
@@ -32,16 +33,6 @@
 - **Experiment Tracking**: Full experiment logging and comparison dashboard
 - **Built-in Datasets**: 5 pre-loaded synthetic datasets for quick prototyping
 - **Model Export**: Save and download trained models with metadata
-
----
-
-## 🌐 Live Demo
-
-**Experience ImbalanceML Pro instantly without any setup:**
-
-### 👉 [Launch Live Application](https://navneet-shukla-imbalance-ml-pro.streamlit.app/)
-
-No installation, no configuration - just click and start building models!
 
 ---
 
