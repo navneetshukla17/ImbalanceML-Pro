@@ -3,8 +3,17 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://navneet-shukla-imbalance-ml-pro.streamlit.app/)
 
 **A Professional Machine Learning Tool for Imbalanced Classification Problems**
+
+<div align="center">
+
+### [🚀 Live Demo](https://navneet-shukla-imbalance-ml-pro.streamlit.app/) | [📖 Documentation](#-usage-guide) | [💡 Features](#-key-features)
+
+*Try the application now - no installation required!*
+
+</div>
 
 ---
 
@@ -26,14 +35,29 @@
 
 ---
 
+## 🌐 Live Demo
+
+**Experience ImbalanceML Pro instantly without any setup:**
+
+### 👉 [Launch Live Application](https://navneet-shukla-imbalance-ml-pro.streamlit.app/)
+
+No installation, no configuration - just click and start building models!
+
+---
+
 ## 🚀 Quick Start
 
-### Prerequisites
+### Option 1: Use Live Demo (Recommended)
+Simply visit the [live application](https://navneet-shukla-imbalance-ml-pro.streamlit.app/) and start working immediately.
+
+### Option 2: Local Installation
+
+#### Prerequisites
 
 - Python 3.8 or higher
 - pip package manager
 
-### Installation
+#### Installation Steps
 
 1. **Clone the repository**
 ```bash
@@ -52,7 +76,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Running the Application
+#### Running the Application
 
 ```bash
 streamlit run app.py
@@ -274,13 +298,16 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 Authors
+## 👤 Author
 
-- **Your Name** - *Initial work* - [YourLinkedin]([https://github.com/yourusername](https://www.linkedin.com/in/navneet-shukla17/))
+**Navneet Shukla**
+
+- LinkedIn: [@navneet-shukla17](https://www.linkedin.com/in/navneet-shukla17/)
+- Project Live Demo: [ImbalanceML Pro](https://navneet-shukla-imbalance-ml-pro.streamlit.app/)
 
 ---
 
@@ -295,7 +322,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the GitHub repository.
+- **Issues**: Open an issue in the [GitHub repository](https://github.com/yourusername/imbalanceml-pro/issues)
+- **Questions**: Connect on [LinkedIn](https://www.linkedin.com/in/navneet-shukla17/)
+- **Live Demo**: [Try the application](https://navneet-shukla-imbalance-ml-pro.streamlit.app/)
 
 ---
 
@@ -311,4 +340,16 @@ For support, email your.email@example.com or open an issue in the GitHub reposit
 
 ---
 
+## ⭐ Show Your Support
+
+If you find this project helpful, please consider giving it a star on GitHub!
+
+---
+
+<div align="center">
+
 **Made with ❤️ for the ML Community**
+
+[Live Demo](https://navneet-shukla-imbalance-ml-pro.streamlit.app/) • [Report Bug](https://github.com/yourusername/imbalanceml-pro/issues) • [Request Feature](https://github.com/yourusername/imbalanceml-pro/issues)
+
+</div>
