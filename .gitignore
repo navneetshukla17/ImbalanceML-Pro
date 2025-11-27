@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment - IMPORTANT!
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.xlsx
+*.pkl
+data/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# UV lock files (optional - you have uv.lock)
+# uv.lock
+
+# Cache
+.cache/
+*.pyc
+
+# Local state
+.local/
